@@ -1,2 +1,2 @@
-# Web_scrapping-exercise
+# calscrape
 Create a private repo on GitHub called calscrape. Share it with mdogy. Create an ipython notebook and commit it. I want you to keep committing it as you edit it so I can see it build up. Your mission is to scrape the cuny fall 2021 academic calendar site using the requests library, beautiful soup, and pandas, just like in class. You should wind up with a pandas data frame where the index column is a python date. There should be a column for “day of the week” with variable label dow and a column called text with the explanation. Print out this data frame. 5 extra credit points if you figure out how to use the google API to programmatically add these dates to your google calendar with the request library.
